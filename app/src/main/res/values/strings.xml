@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Makan?</string>
+    <string-array name="categories">
+        <item>Malay Cuisines</item>
+        <item>Chinese Cuisines</item>
+        <item>Indian Cuisines</item>
+        <item>Korean Cuisines</item>
+        <item>Japanese Cuisines</item>
+        <item>Fastfoods</item>
+        <item>Deserts</item>
+        <item>Thirst Quenchers</item>
+
+
+    </string-array>
+</resources>
